@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 端溪硯譜
+#+DATE: 2015-08-24 23:17:18.937363
+#+PROPERTY: ID KR3i0006
+#+PROPERTY: BASEEDITION WYG    
